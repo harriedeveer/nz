@@ -1,0 +1,23 @@
+{
+    "name": "harriedeveer/nz",
+    "description": "None Zero. Simple function to test an input variable at null state and return a second default variable if so.",
+    "type": "library",
+    "keywords": ["nz", "none", "zero"],
+    "homepage": "https://github.com/harriedeveer/nz",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Harrie de Veer",
+            "homepage": "https://fuzzyharry.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/harriedeveer/nz/issues",
+        "source": "https://github.com/harriedeveer/nz"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "files": ["src/nz.php"]
+    }
+}
