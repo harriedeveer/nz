@@ -11,11 +11,13 @@
             "homepage": "https://fuzzyharry.com"
         }
     ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
     "support": {
         "issues": "https://github.com/harriedeveer/nz/issues",
         "source": "https://github.com/harriedeveer/nz"
-    },
-    "require-dev": {
     },
     "autoload": {
         "files": ["src/nz.php"]
